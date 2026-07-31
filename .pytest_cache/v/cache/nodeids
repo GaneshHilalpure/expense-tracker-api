@@ -1,0 +1,7 @@
+[
+  "tests/test_api.py::test_add_expense",
+  "tests/test_api.py::test_delete_expense",
+  "tests/test_api.py::test_get_expenses",
+  "tests/test_api.py::test_home",
+  "tests/test_api.py::test_total_expenses"
+]
